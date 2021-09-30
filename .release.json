@@ -1,9 +1,9 @@
 {
   "type": "JavaScript",
-  "ci": "travis-pro",
-  "slug": "twilio/twilio-voice.js",
+  "ci": "circleci",
+  "slug": "mhuynh5757/twilio-voice.js",
   "env": {
-    "GH_REF": "github.com/twilio/twilio-voice.js.git"
+    "GH_REF": "github.com/mhuynh5757/twilio-voice.js.git"
   },
   "plans": {
     "release": {
